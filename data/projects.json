@@ -2,14 +2,14 @@
   {
     "name": "Sorgiña Meiga",
     "tagline": {
-      "es": "Web bilingüe para el criadero de Lhasa Apso Sorgiña Meiga",
-      "en": "Bilingual website for the Sorgiña Meiga Lhasa Apso kennel"
+      "es": "Versión actual — reescritura en Swift/Vapor",
+      "en": "Current version — Swift/Vapor rewrite"
     },
     "description": {
-      "es": "Reescritura en Swift/Vapor del antiguo sitio en PHP. Aplicación server-side bilingüe (ES/EN) con plantillas Leaf y persistencia en PostgreSQL mediante Fluent, desplegada en Google Cloud Run con base de datos Neon Postgres.",
-      "en": "Swift/Vapor rewrite of the legacy PHP site. Bilingual (ES/EN) server-side app with Leaf templates and PostgreSQL persistence via Fluent, deployed on Google Cloud Run with a Neon Postgres database."
+      "es": "Reescritura en Swift/Vapor del sitio original en PHP. Aplicación server-side bilingüe (ES/EN) con plantillas Leaf y persistencia en PostgreSQL mediante Fluent, desplegada en Google Cloud Run con base de datos Neon Postgres.",
+      "en": "Swift/Vapor rewrite of the original PHP site. Bilingual (ES/EN) server-side app with Leaf templates and PostgreSQL persistence via Fluent, deployed on Google Cloud Run with a Neon Postgres database."
     },
-    "image": "assets/img/projects/sorginameiga.png",
+    "image": "assets/img/projects/sorginameiga-vapor.png",
     "tech": [
       "Swift",
       "Vapor",
@@ -25,10 +25,38 @@
       { "es": "Cloud", "en": "Cloud" }
     ],
     "links": {
-      "demo": "http://www.sorginameiga.com",
+      "demo": "https://sorginameiga-681872954393.europe-west3.run.app",
       "repo": "https://github.com/Rural-Code-Labs/sorginameiga"
     },
     "featured": true,
     "year": 2026
+  },
+  {
+    "name": "Sorgiña Meiga",
+    "tagline": {
+      "es": "Versión original (2013) — PHP y MySQL",
+      "en": "Original version (2013) — PHP and MySQL"
+    },
+    "description": {
+      "es": "Sitio original del criadero de Lhasa Apso, desarrollado en PHP con base de datos MySQL y en funcionamiento desde 2013. Web bilingüe (ES/EN) con galería de fotos de los ejemplares.",
+      "en": "Original Lhasa Apso kennel website, built in PHP with a MySQL database and live since 2013. Bilingual (ES/EN) site with a photo gallery of the dogs."
+    },
+    "image": "assets/img/projects/sorginameiga.png",
+    "tech": [
+      "PHP",
+      "MySQL",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "tags": [
+      { "es": "Legacy", "en": "Legacy" },
+      { "es": "Web clásica", "en": "Classic web" }
+    ],
+    "links": {
+      "demo": "http://www.sorginameiga.com"
+    },
+    "featured": false,
+    "year": 2013
   }
 ]
