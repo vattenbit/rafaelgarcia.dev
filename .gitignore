@@ -5,5 +5,8 @@
 .vscode/
 .idea/
 
+# Claude Code (config local)
+.claude/
+
 # Logs / temporales
 *.log
