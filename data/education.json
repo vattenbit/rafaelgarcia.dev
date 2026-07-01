@@ -1,0 +1,39 @@
+[
+  {
+    "institution": "Universidad Rey Juan Carlos",
+    "degree": {
+      "es": "Grado en Ingeniería Informática",
+      "en": "Bachelor's Degree in Computer Engineering"
+    },
+    "field": {
+      "es": "Ingeniería Informática",
+      "en": "Computer Engineering"
+    },
+    "start": "2010",
+    "end": "2016",
+    "grade": "6,86",
+    "note": {
+      "es": "Pendiente únicamente del Trabajo de Fin de Grado (TFG).",
+      "en": "Only the Final Degree Project (TFG) remaining."
+    },
+    "activities": []
+  },
+  {
+    "institution": "IES Fuensalida",
+    "degree": {
+      "es": "Graduado en ESO y Bachillerato",
+      "en": "Secondary Education & Baccalaureate"
+    },
+    "field": {
+      "es": "Ciencias de la Naturaleza y la Salud",
+      "en": "Natural and Health Sciences"
+    },
+    "start": "2003",
+    "end": "2009",
+    "grade": "6",
+    "activities": [
+      { "es": "Banda Musical del Instituto", "en": "School Music Band" },
+      { "es": "Olimpiadas Matemáticas", "en": "Math Olympiads" }
+    ]
+  }
+]

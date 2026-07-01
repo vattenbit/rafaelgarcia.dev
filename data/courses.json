@@ -1,0 +1,15 @@
+[
+  { "name": "Advanced Architecting on AWS", "issuer": "Santander Digital Services" },
+  { "name": "Architecting on AWS", "issuer": "Santander Digital Services" },
+  { "name": "Systems Operations on AWS", "issuer": "Santander Digital Services" },
+  { "name": "Google Cloud Fundamentals: Core Infrastructure", "issuer": "Santander Digital Services" },
+  { "name": "OpenShift Container Platform 4.x (Introducción)", "issuer": "Santander Digital Services" },
+  { "name": "GitHub Actions", "issuer": "Santander Digital Services" },
+  { "name": "Iniciación al desarrollo con IA", "issuer": "BIG School / MoureDev" },
+  { "name": "Introducción a la IA para Developers", "issuer": "midudev" },
+  { "name": "Desarrollo de aplicaciones en Android 8.0", "issuer": "Cibernos" },
+  { "name": "BMP PLAN", "issuer": "Cibernos" },
+  { "name": "SQL y T-SQL", "issuer": "Cibernos" },
+  { "name": "Introducción a Git", "issuer": "Universidad Rey Juan Carlos" },
+  { "name": "Diseño de presentaciones y comunicación en público", "issuer": "Universidad Rey Juan Carlos" }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "category": { "es": "Cloud", "en": "Cloud" },
+    "skills": ["AWS", "Microsoft Azure", "Google Cloud Platform (GCP)", "OpenStack", "VMware"]
+  },
+  {
+    "category": { "es": "Automatización & IaC", "en": "Automation & IaC" },
+    "skills": ["Ansible", "Terraform Enterprise", "Rundeck", "Cloudform", "Configuration Management"]
+  },
+  {
+    "category": { "es": "Sistemas", "en": "Systems" },
+    "skills": ["Red Hat Linux", "Windows Server", "OpenShift", "Docker", "Networking", "Infoblox", "Active Directory"]
+  },
+  {
+    "category": { "es": "Lenguajes & Scripting", "en": "Languages & Scripting" },
+    "skills": ["Python", "Swift", "Bash", "PowerShell", "PHP", "Ruby", "Java", "JavaScript", "SQL"]
+  },
+  {
+    "category": { "es": "Bases de datos", "en": "Databases" },
+    "skills": ["MySQL", "PostgreSQL", "SQL Server (T-SQL)", "Oracle (PL/SQL)"]
+  },
+  {
+    "category": { "es": "CI/CD & DevOps", "en": "CI/CD & DevOps" },
+    "skills": ["Git", "GitHub", "GitHub Actions", "GitLab", "Jenkins"]
+  },
+  {
+    "category": { "es": "Reporting & Datos", "en": "Reporting & Data" },
+    "skills": ["Power BI", "SSRS", "JasperReports"]
+  },
+  {
+    "category": { "es": "Herramientas & Metodología", "en": "Tools & Methodology" },
+    "skills": ["JIRA", "SharePoint", { "es": "Liderazgo de squad/workstream (BAU)", "en": "Squad/workstream leadership (BAU)" }]
+  }
+]

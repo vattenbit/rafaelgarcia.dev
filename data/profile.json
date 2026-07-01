@@ -1,0 +1,46 @@
+{
+  "name": "Rafael García Álvarez",
+  "role": {
+    "es": "Automation Engineer · Fullstack Developer",
+    "en": "Automation Engineer · Fullstack Developer"
+  },
+  "location": {
+    "es": "Madrid, España",
+    "en": "Madrid, Spain"
+  },
+  "tagline": {
+    "es": "Automatizo infraestructura y plataformas en la nube.",
+    "en": "I automate cloud infrastructure and platforms."
+  },
+  "summary": {
+    "es": "Ingeniero de automatización con más de 10 años de experiencia en infraestructura de sistemas, cloud y DevOps. Especializado en aprovisionamiento multi-cloud (AWS, Azure y GCP), automatización con Ansible y Terraform, y liderazgo de equipos BAU en el sector bancario.",
+    "en": "Automation engineer with 10+ years of experience in systems infrastructure, cloud and DevOps. Specialized in multi-cloud provisioning (AWS, Azure & GCP), automation with Ansible and Terraform, and leading BAU teams in the banking sector."
+  },
+  "photo": "assets/img/foto.jpeg",
+  "social": [
+    {
+      "network": "GitHub",
+      "url": "https://github.com/vattenbit",
+      "handle": "@vattenbit",
+      "icon": "github"
+    },
+    {
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/rafaelgarciaalvarez/",
+      "handle": "rafaelgarciaalvarez",
+      "icon": "linkedin"
+    },
+    {
+      "network": "X",
+      "url": "https://x.com/vattenbit",
+      "handle": "@vattenbit",
+      "icon": "x"
+    },
+    {
+      "network": "Email",
+      "url": "mailto:vattenbit@gmail.com",
+      "handle": "vattenbit@gmail.com",
+      "icon": "email"
+    }
+  ]
+}

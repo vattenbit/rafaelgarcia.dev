@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Sorgiña Meiga",
+    "tagline": {
+      "es": "Web bilingüe para el criadero de Lhasa Apso Sorgiña Meiga",
+      "en": "Bilingual website for the Sorgiña Meiga Lhasa Apso kennel"
+    },
+    "description": {
+      "es": "Reescritura en Swift/Vapor del antiguo sitio en PHP. Aplicación server-side bilingüe (ES/EN) con plantillas Leaf y persistencia en PostgreSQL mediante Fluent, desplegada en Google Cloud Run con base de datos Neon Postgres.",
+      "en": "Swift/Vapor rewrite of the legacy PHP site. Bilingual (ES/EN) server-side app with Leaf templates and PostgreSQL persistence via Fluent, deployed on Google Cloud Run with a Neon Postgres database."
+    },
+    "image": "assets/img/projects/sorginameiga.png",
+    "tech": [
+      "Swift",
+      "Vapor",
+      "Leaf",
+      "Fluent",
+      "PostgreSQL (Neon)",
+      "Google Cloud Run",
+      "Docker"
+    ],
+    "tags": [
+      { "es": "Server-side Swift", "en": "Server-side Swift" },
+      { "es": "Migración de legacy", "en": "Legacy migration" },
+      { "es": "Cloud", "en": "Cloud" }
+    ],
+    "links": {
+      "demo": "http://www.sorginameiga.com",
+      "repo": "https://github.com/Rural-Code-Labs/sorginameiga"
+    },
+    "featured": true,
+    "year": 2026
+  }
+]

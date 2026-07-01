@@ -1,0 +1,88 @@
+[
+  {
+    "company": "Santander Digital Services",
+    "location": "Boadilla del Monte, Madrid, España",
+    "workplace": "hybrid",
+    "current": true,
+    "roles": [
+      {
+        "title": "Automation Engineer · Systems Infrastructure & Communication Platforms Specialist II",
+        "start": "2025-06",
+        "end": null,
+        "highlights": [
+          { "es": "Líder global de workstream BAU", "en": "Global BAU Workstream Leader" },
+          { "es": "Líder de workstream de plataforma local", "en": "Local Platform Workstream Leader" },
+          { "es": "Resto de responsabilidades iguales al rol anterior", "en": "Same responsibilities as the previous role" }
+        ]
+      },
+      {
+        "title": "Automation Engineer · Systems Infrastructure & Communication Platforms Specialist I",
+        "start": "2024-09",
+        "end": "2025-06",
+        "highlights": [
+          { "es": "Líder de squad BAU", "en": "BAU Squad Leader" },
+          { "es": "Resto de responsabilidades iguales al rol anterior", "en": "Same responsibilities as the previous role" }
+        ]
+      },
+      {
+        "title": "Automation Engineer · Systems Infrastructure & Communication Platforms Analyst III",
+        "start": "2021-11",
+        "end": "2024-08",
+        "highlights": [
+          { "es": "Aprovisionamiento de infraestructura en Cloud pública (AWS, Azure y GCP) y Cloud privada / On-Premise (VMware y OpenStack)", "en": "Infrastructure provisioning on public cloud (AWS, Azure & GCP) and private/on-premise cloud (VMware & OpenStack)" },
+          { "es": "Administración de Red Hat Linux y Windows Server", "en": "Red Hat Linux and Windows Server administration" },
+          { "es": "Automatización con Ansible, Python, PowerShell, Bash y PHP", "en": "Automation with Ansible, Python, PowerShell, Bash and PHP" },
+          { "es": "Rundeck, Terraform Enterprise y OpenShift", "en": "Rundeck, Terraform Enterprise and OpenShift" },
+          { "es": "Bases de datos MySQL y PostgreSQL", "en": "MySQL and PostgreSQL databases" },
+          { "es": "Desarrollo de informes con Power BI", "en": "Report development with Power BI" },
+          { "es": "Otras tecnologías: Networking, Infoblox, Active Directory, JIRA, SharePoint, Docker, Git, GitHub, GitHub Actions, GitLab, Jenkins", "en": "Other technologies: Networking, Infoblox, Active Directory, JIRA, SharePoint, Docker, Git, GitHub, GitHub Actions, GitLab, Jenkins" }
+        ]
+      }
+    ]
+  },
+  {
+    "company": "CIVIR",
+    "location": "Boadilla del Monte, Madrid, España",
+    "workplace": "hybrid",
+    "current": false,
+    "roles": [
+      {
+        "title": "Senior Developer and Automation Engineer",
+        "start": "2018-01",
+        "end": "2021-11",
+        "highlights": [
+          { "es": "Cliente: Santander Digital Services (Produban & Santander Global Tech)", "en": "Client: Santander Digital Services (Produban & Santander Global Tech)" },
+          { "es": "Departamento de Automatización y Gestión de la Configuración", "en": "Automation and Configuration Management department" },
+          { "es": "Aprovisionamiento de infraestructura en Cloud pública (Azure) y Cloud privada / On-Premise", "en": "Infrastructure provisioning on public cloud (Azure) and private/on-premise cloud" },
+          { "es": "Administración de Red Hat Linux y Windows Server", "en": "Red Hat Linux and Windows Server administration" },
+          { "es": "Desarrollo con Ruby, Python, PHP y Ansible", "en": "Development with Ruby, Python, PHP and Ansible" },
+          { "es": "Rundeck y Cloudform", "en": "Rundeck and Cloudform" },
+          { "es": "Operación de infraestructura de virtualización VMware y OpenStack", "en": "VMware and OpenStack virtualization infrastructure operation" }
+        ]
+      }
+    ]
+  },
+  {
+    "company": "Cibernos",
+    "location": "Las Tablas III, Madrid, España",
+    "workplace": "onsite",
+    "current": false,
+    "roles": [
+      {
+        "title": "Junior Developer and Database Administrator",
+        "start": "2015-04",
+        "end": "2018-01",
+        "highlights": [
+          { "es": "Proyectos BBVA (CLA/GRM, CTA/GTF, BCR y GYRAR)", "en": "BBVA projects (CLA/GRM, CTA/GTF, BCR and GYRAR)" },
+          { "es": "Proyectos Cibernos (Mediata/Rema)", "en": "Cibernos projects (Mediata/Rema)" },
+          { "es": "Formador de nuevos empleados y colaboradores", "en": "New employees and partners trainer" },
+          { "es": "Desarrollo de procesos con PLAN (software de Cibernos)", "en": "Process development with PLAN (Cibernos software)" },
+          { "es": "Administración de bases de datos SQL Server y Oracle", "en": "Database administration with SQL Server and Oracle" },
+          { "es": "Desarrollo de procesos de base de datos con Transact-SQL y PL/SQL", "en": "Database process development with Transact-SQL and PL/SQL" },
+          { "es": "Desarrollo de informes con SSRS y JasperReports", "en": "Report development with SSRS and JasperReports" },
+          { "es": "Desarrollo con JavaScript, Java y SQL", "en": "Development with JavaScript, Java and SQL" }
+        ]
+      }
+    ]
+  }
+]
